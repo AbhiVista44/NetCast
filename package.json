@@ -1,0 +1,12 @@
+{
+  "name": "netcast",
+  "version": "1.0.0",
+  "description": "Building a youtube like platform.",
+  "license": "ISC",
+  "author": "Abhi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
